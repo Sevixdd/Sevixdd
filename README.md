@@ -44,6 +44,7 @@
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green" height="40" alt="pandas logo"  />
 </div>
 
 ###
