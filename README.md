@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Just graduated from the University of Surrey MSc Artificial Intelligence with Merit<br>I love participating to hackathons and competitions. Mostly participated in hackathons hosted by lablab.ai and Encode, recently winning the 1st sponsor prize from ZORA in Encode AI Hackathon 2025  <br>&#129504;Working on a content generation and social media auto-posting web app at the moment.</p>
+<p align="left">&#127891; Just graduated from the University of Surrey MSc Artificial Intelligence with Merit<br>&#129504; I love participating to hackathons and competitions. Mostly participated in hackathons hosted by lablab.ai and Encode, recently winning the 1st sponsor prize from ZORA in Encode AI Hackathon 2025  <br>&#9881;  Working on a content generation and social media auto-posting web app at the moment.</p>
 
 ###
 
